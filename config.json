@@ -1,0 +1,54 @@
+{
+    "configVersion": 1,
+    "appIdentifier": "com.rivm.kiddi",
+    "appName": "KIDDI",
+    "bundleName": {
+        "main": "KIDDI",
+        "dev": "KIDDIDev"
+    },
+    "deviceTarget": {
+        "phone": true,
+        "tablet": false
+    },
+    "orientation": {
+        "portrait": true,
+        "landscape": true
+    },
+    "capabilities": {
+        "deepLink": {
+            "value": "",
+            "enabled": false
+        },
+        "maps": {
+            "value": "",
+            "enabled": false
+        },
+        "mapsIos": {
+            "value": {
+                "purpose": "To use that feature the app needs access to your location."
+            },
+            "enabled": false
+        },
+        "pushNotifications": {
+            "enabled": false
+        },
+        "crashlytics": {
+            "enabled": false
+        },
+        "firebaseAndroid": {
+            "enabled": false
+        },
+        "firebaseIos": {
+            "enabled": false
+        },
+        "localNotifications": {
+            "enabled": false
+        },
+        "appCenterOTA": {
+            "enabled": false
+        }
+    },
+    "appVersion": "0.0.8",
+    "buildNumber": 7,
+    "runtimeUrl": "https://kiddi-accp.mendixcloud.com"
+}
