@@ -47,5 +47,8 @@
         "appCenterOTA": {
             "enabled": false
         }
-    }
+    },
+    "appVersion": "0.0.10",
+    "buildNumber": 10,
+    "runtimeUrl": "https://kiddi-accp.mendixcloud.com"
 }
