@@ -48,7 +48,7 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.15",
+    "appVersion": "0.0.16",
     "buildNumber": 15,
     "runtimeUrl": "https://kiddi-accp.mendixcloud.com"
 }
