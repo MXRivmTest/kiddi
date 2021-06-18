@@ -1,8 +1,8 @@
 PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 
-BUNDLE_DISPLAY_NAME = KIDDI
-BUNDLE_IDENTIFIER = com.rivm.kiddi
+BUNDLE_DISPLAY_NAME = NativeTemplate
+BUNDLE_IDENTIFIER = com.mendix.native.template
 
-RUNTIME_URL = https:\/\/kiddi-accp.mendixcloud.com
+RUNTIME_URL = http:\/\/localhost:8080
 
-PRODUCT_NAME = KIDDI
+PRODUCT_NAME = nativeTemplate
