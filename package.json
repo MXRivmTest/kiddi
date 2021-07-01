@@ -1,8 +1,8 @@
 {
   "name": "native-template",
-  "version": "5.1.12",
+  "version": "5.1.13",
   "mendix": {
-    "templateVersion": "5.1.12"
+    "templateVersion": "5.1.13"
   },
   "private": true,
   "scripts": {
@@ -43,7 +43,8 @@
     "react-native-touch-id": "4.4.1",
     "react-native-vector-icons": "6.6.0",
     "react-native-video": "5.0.2",
-    "react-native-view-shot": "3.1.2"
+    "react-native-view-shot": "3.1.2",
+    "react-native-webview": "8.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.5.4",
