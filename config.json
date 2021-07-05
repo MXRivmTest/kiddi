@@ -12,7 +12,7 @@
     },
     "orientation": {
         "portrait": true,
-        "landscape": true
+        "landscape": false
     },
     "capabilities": {
         "deepLink": {
@@ -45,9 +45,9 @@
             "enabled": false
         }
     },
-    "appVersion": "0.1.5",
-    "buildNumber": 9,
-    "runtimeUrl": "https://kiddi-accp.mendixcloud.com",
+    "appVersion": "0.5.2",
+    "buildNumber": 2,
+    "runtimeUrl": "https://kiddi-accp.mendixcloud.com/",
     "permissions": [
         {
             "title": "Internet",
