@@ -45,9 +45,6 @@
             "enabled": false
         }
     },
-    "appVersion": "0.5.3",
-    "buildNumber": 3,
-    "runtimeUrl": "https://kiddi-accp.mendixcloud.com/",
     "permissions": [
         {
             "title": "Internet",
