@@ -91,8 +91,5 @@
             "platform": "ios",
             "required": true
         }
-    ],
-    "appVersion": "1.0.1",
-    "buildNumber": 14,
-    "runtimeUrl": "https://kiddi-accp.mendixcloud.com"
+    ]
 }
