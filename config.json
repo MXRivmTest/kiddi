@@ -1,6 +1,6 @@
 {
     "configVersion": 2,
-    "appIdentifier": "nl.rivm.kiddi",
+    "appIdentifier": "com.rivm.kiddi",
     "appName": "KIDDI",
     "bundleName": {
         "main": "KIDDI",
@@ -92,7 +92,7 @@
             "required": true
         }
     ],
-    "appVersion": "1.0.3",
-    "buildNumber": 16,
-    "runtimeUrl": "https://kiddi-accp.mendixcloud.com"
+    "appVersion": "1.0.4",
+    "buildNumber": 1,
+    "runtimeUrl": "https://kiddi-accp.mendixcloud.com/"
 }
