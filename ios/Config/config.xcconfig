@@ -1,7 +1,7 @@
-PRODUCT_BUNDLE_IDENTIFIER = com.rivm.kiddi
+PRODUCT_BUNDLE_IDENTIFIER = nl.rivm.kiddi
 
 BUNDLE_DISPLAY_NAME = Kiddi
-BUNDLE_IDENTIFIER = com.rivm.kiddi
+BUNDLE_IDENTIFIER = nl.rivm.kiddi
 
 RUNTIME_URL = http:\/\/localhost:8080
 
