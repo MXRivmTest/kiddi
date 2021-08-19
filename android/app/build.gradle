@@ -33,7 +33,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rivm.kiddi"
+        applicationId "nl.rivm.kiddi"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         missingDimensionStrategy "react-native-camera", "general"
